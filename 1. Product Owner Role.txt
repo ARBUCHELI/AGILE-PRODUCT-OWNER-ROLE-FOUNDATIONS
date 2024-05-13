@@ -21,3 +21,49 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Product owner's typical background
+------------------------------------
+
+1. Business Units
+	. Leader
+
+	. Process owner
+
+	. Analyst
+
+
+2. Product Management
+
+
+3. Product Management Office
+	. Project Manager
+
+	. Business Analyst
+
+
+4. Product Owner + Business Analyst
+
+
+5. Technology Group
+	. Works when the technology team is the end user
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* The mindset of a successful product owner
+-------------------------------------------
+
+* Value
+-------
+How to best spend the organization's money
+
+* Decision-Making
+-----------------
+How key decisions keep the team and project moving
+
+* Engagement
+------------
+How to best interact with the team and keep focus on value ---> AVOID OVER OR UNDER ENGINEERING
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
