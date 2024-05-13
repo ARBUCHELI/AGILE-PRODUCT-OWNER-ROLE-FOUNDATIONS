@@ -1,0 +1,44 @@
+# INTRODUCTION
+--------------
+
+* The key to creating better agile results
+------------------------------------------
+
+* Product owners determine:
+---------------------------
+. What gets built
+
+. In what order
+
+
+* Pillars of Product Ownership
+------------------------------
+. Engagement
+
+. Value
+
+. Decision-Making
+
+
+* Agile Team
+------------
+. Product Ownership Team
+------------------------
+Focus on what to build
+
+. Delivery Team
+---------------
+Focus on building the product
+
+
+* Developers
+------------
+. Interact in standup meetings
+
+. Collaborate on product features
+
+. Discuss scenarios
+
+. Offer feedback
+
+
