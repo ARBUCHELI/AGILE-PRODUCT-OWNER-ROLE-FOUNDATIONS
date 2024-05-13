@@ -1,0 +1,23 @@
+# 1. PRODUCT OWNER ROLE
+-----------------------
+
+* Product owner goals on an agile team
+--------------------------------------
+
+* Pillars of Product Ownership
+------------------------------
+. Engagement
+
+. Value
+
+. Decision-making
+
+
+* PRODUCT OWNER GOALS
+---------------------
+. Set team's priorities basesd on business value
+
+. Represent the customer experience
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
