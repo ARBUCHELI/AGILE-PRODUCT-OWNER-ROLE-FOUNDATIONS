@@ -67,3 +67,112 @@ How to best interact with the team and keep focus on value ---> AVOID OVER OR UN
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Who the product owner collaborates with?
+------------------------------------------
+
+* Product Owner Interactions
+----------------------------
+. Facilitate
+
+. Meet face-to-face
+
+. Collaborate
+
+. Influence
+
+
+* Team Leader
+-------------
+. Scrum master
+
+. Project manager
+
+. Team lead
+
+
+* Team Lead
+-----------
+. Guide team on product vision
+
+. Refine the backlog
+
+. Motivate team
+
+
+* Developers
+------------
+. Interact in standup meetings
+
+. Collaborate on product features
+
+. Discuss scenarios
+
+. Offer feedback
+
+
+* More interactions
+-------------------
+. Testing teams
+
+. Business analysts
+
+. Subject matter experts
+
+. Other product owners
+
+
+* Product Management
+--------------------
+. Share information about customers, markets, options, and technology
+
+
+* Customers
+-----------
+. Understand their needs
+
+
+* Other interactions
+--------------------
+. User experience experts
+
+. Graphic designers
+
+. Governance professionals
+
+
+* Leaders
+---------
+. Collaborate on strategic alignment and minimum viable product
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
