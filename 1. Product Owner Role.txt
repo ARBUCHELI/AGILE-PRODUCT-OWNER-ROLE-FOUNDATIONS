@@ -150,6 +150,36 @@ How to best interact with the team and keep focus on value ---> AVOID OVER OR UN
 * Concept of product ownership as a team
 ----------------------------------------
 
+* Product Ownership Team
+------------------------
+Share the responsibilities of product owner
+
+
+* Agile Team
+------------
+
+* Product Ownership Team
+------------------------
+. Focus on what to build
+
+
+* Delivery Team
+---------------
+. Focus on building the product
+
+
+
+* Types of Product Ownerships Teams
+-----------------------------------
+
+1. Multiple Product Owners
+--------------------------
+. Work closely and maintain the project pace
+
+. work closely and maintain the project pace
+
+
+
 
 
 
