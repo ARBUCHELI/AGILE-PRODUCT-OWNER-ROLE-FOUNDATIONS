@@ -176,7 +176,31 @@ Share the responsibilities of product owner
 --------------------------
 . Work closely and maintain the project pace
 
-. work closely and maintain the project pace
+
+2. Product Owner + Business Analyst
+-----------------------------------
+. PO: Makes big or final decisions.
+
+. BA: Works closely with team and product owner.
+      Makes daily decisions.
+
+
+3. Team of Product Owners
+-------------------------
+
+
+* Maintain Agile Mindset
+------------------------
+1. Make quick decisions
+
+2. Meet with development team regularly
+
+3. Keep value at forefront and discuss alternatives
+
+
+
+
+
 
 
 
