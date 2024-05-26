@@ -51,6 +51,48 @@ A roadmpa turns a vision into a further detail. It also identifies the priority 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Analyze a roadmap's value and risk
+------------------------------------
+The product owner needs to assess what features make sense to deploy first from the perspective of customer value, organizational value, and risk.
+
+. Value thinking
+
+. Value analysis
+
+
+* Value thinking
+----------------
+. Understand and prioritize product features.
+
+
+* Key Questions
+---------------
+1 What are the customers most basic needs?
+
+2 What, if absent, will make customers dissatisfied with the product?
+
+3 What features are not necessary, but help create a more likeable product?
+
+4 What features do customers not know they want?
+
+
+* Example
+---------
+
+GoHealth App Value Analysis
+---------------------------
+1 Connect to health club.
+
+2 View schedules
+
+3 Register for classes
+
+4 Interact with trainer
+
+5 Receive notifications
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
