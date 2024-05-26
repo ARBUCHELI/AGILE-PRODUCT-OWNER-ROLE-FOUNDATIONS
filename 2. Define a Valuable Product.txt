@@ -32,3 +32,51 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Agile product roadmap
+-----------------------
+
+* Product Roadmap
+-----------------
+. Plans and prioritizes steps for delivering the product
+
+. Focuses on increments of value over time
+
+. Shows respect
+
+. Makes responsible decisions
+
+
+A roadmpa turns a vision into a further detail. It also identifies the priority of each piece of value.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
