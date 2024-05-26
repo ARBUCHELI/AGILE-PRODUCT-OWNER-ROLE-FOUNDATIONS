@@ -1,0 +1,34 @@
+# 2. DEFINE A VALUABLE PRODUCT
+------------------------------
+
+* Agile product vision
+----------------------
+
+* Product Vision
+----------------
+. Common goals
+
+. Framework for dialogue
+
+. Teamwork
+
+
+			* TARGET GROUP (WHO THE PRODUCT IS MAINLY BUILT FOR)
+
+			* GOALS (WHAT ARE THE GOALS OF THE TARGET GROUP IN RELATIONSHIP TO THE PRODUCT)
+
+			* NEEDS (WHAT DO THEY NEED TO ACHIEVE THEIR GOAL)
+
+			* VALUE (WHAT VALUE DOES THE TAGET GROUP EXPECT TO RECEIVE FROM THE PRODUCT)
+
+			* KEY FEATAURES
+
+* Key Considerations
+--------------------
+. Problem the product solves
+
+. Opportunity the solution brings
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
